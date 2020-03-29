@@ -1,0 +1,15 @@
+* *{
+    background-color: greenyellow;
+}
+* * *{
+    background-color: lightgreen;
+}
+* * * *{
+    background-color: aquamarine;
+}
+* * * * *{
+    background-color: burlywood;
+}
+* * * * * * {
+    background-color: aqua;
+}
